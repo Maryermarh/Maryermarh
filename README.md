@@ -17,6 +17,7 @@ I'm a data science enthusiast passionate about using data to solve real-world pr
 - 🧠 [Medium](https://medium.com/@maryamihamza01)
 - 🛠️ [GitHub](https://github.com/maryermerh)
 
+## Facts
 - 🌱 I’m currently learning deeplearning
 - 👯 I’m looking to collaborate on solving real world problems
 - 💬 Ask me about everything
