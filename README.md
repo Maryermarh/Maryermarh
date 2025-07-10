@@ -14,7 +14,7 @@ I'm a data science enthusiast passionate about using data to solve real-world pr
 
 ## 🌐 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/maryam-ibrahim-hamza-59082124b)
-- 🧠 [Medium]([https://medium.com/@maryamihamza01)
+- 🧠 [Medium](https://medium.com/@maryamihamza01)
 - 🛠️ [GitHub](https://github.com/maryermerh)
 
 - 🌱 I’m currently learning deeplearning
