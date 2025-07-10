@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 👋 Hi, I'm Maryam Ibrahim Hamza
 
 I'm a data science enthusiast passionate about using data to solve real-world problems — especially in health, equity, and community development.
