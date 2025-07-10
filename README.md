@@ -13,7 +13,7 @@ I'm a data science enthusiast passionate about using data to solve real-world pr
 🔹 [Women in STEM Data Story](https://github.com/maryamihamza/women-stem-eda)  
 
 ## 🌐 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/maryam-ibrahim-hamza-59082124b)
+- 💼 [LinkedIn](https://www.linkedin.com/in/maryam-ibrahim-hamza-59082124b)
 - 🧠 [Medium]([https://medium.com/@maryamihamza01)
 - 🛠️ [GitHub](https://github.com/maryermerh)
 
