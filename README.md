@@ -10,6 +10,14 @@ I'm a data science enthusiast passionate about using data to solve real-world pr
 ## 📌 Projects
 🔹 [COVID-19 Community Dashboard](https://github.com/maryamihamza/covid-dashboard)  
 🔹 [Heart Disease Prediction](https://colab.research.google.com/drive/1W2vxzASx2ybfYWI_m_qAvT-BlxtD8eyp?usp=sharing)
+🔹 [Heart Disease Prediction](https://colab.research.google.com/drive/13H5rZsjRv-BFjRwQR5dfm0BaK9uUnfDH?usp=sharing)
+🔹 [Data processing of Business Funding Data in Nigeria.ipynb](https://colab.research.google.com/drive/1_4GgoCAAWWMSfQYzuSZNlDzkd8RQThuq?usp=sharing)
+🔹 [Heart Disease Prediction]()
+🔹 [Heart Disease Prediction]()
+🔹 [Heart Disease Prediction]()
+🔹 [Heart Disease Prediction]()
+
+
 🔹 [Sentiment Analysis on Nigerian Tweets](https://github.com/maryamihamza/naija-sentiment)  
 🔹 [Women in STEM Data Story](https://github.com/maryamihamza/women-stem-eda)  
 
